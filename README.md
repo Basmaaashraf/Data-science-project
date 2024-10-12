@@ -12,9 +12,7 @@ This project focuses on analyzing the VGsales dataset, which comprises global vi
 4. [Machine Learning](#machine-learning)
 5. [Installation](#installation)
 6. [Usage](#usage)
-7. [Conclusion](#conclusion)
-8. [Acknowledgments](#acknowledgments)
-9. [License](#license)
+
 
 ---
 
@@ -40,7 +38,7 @@ Data cleaning is the process of identifying and correcting or removing errors, i
 Visualization refers to the representation of data or information in a graphical or pictorial format. The goal is to help people understand and interpret complex data by presenting it in a way that is easy to understand and visually appealing.
 
 In this project, I created various visualizations to illustrate trends and patterns in the data:
-![PowerPi](path/to/image)
+![PowerPi](https://github.com/Basmaaashraf/Data-science-project/blob/main/virsualization.jpg)
 
 
 ## Machine Learning
