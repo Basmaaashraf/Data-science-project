@@ -39,10 +39,9 @@ Data cleaning is the process of identifying and correcting or removing errors, i
 ## Visualization
 Visualization refers to the representation of data or information in a graphical or pictorial format. The goal is to help people understand and interpret complex data by presenting it in a way that is easy to understand and visually appealing.
 
-In this project, I created various visualizations to illustrate trends and patterns in the data, including:
-- Bar charts showing the top-selling video games by platform.
-- Line graphs depicting sales trends over the years.
-- Heat maps to visualize sales distribution across different regions.
+In this project, I created various visualizations to illustrate trends and patterns in the data:
+![PowerPi](path/to/image)
+
 
 ## Machine Learning
 Machine learning is a subfield of artificial intelligence that involves training algorithms to learn patterns and insights from data without being explicitly programmed.
@@ -63,7 +62,7 @@ pip install pandas matplotlib seaborn scikit-learn
 
 To preprocess the data and conduct the analysis, follow these steps:
 
-1. **Clone the Repository**:  
+ **Clone the Repository**:  
    First, clone the repository to your local machine using the following command:
 
    ```bash
