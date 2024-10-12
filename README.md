@@ -58,8 +58,8 @@ To set up the environment for this project, ensure you have Python installed. Th
 
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
-
-## usage M
+```
+## usage 
 
 To preprocess the data and conduct the analysis, follow these steps:
 
