@@ -59,7 +59,7 @@ To set up the environment for this project, ensure you have Python installed. Th
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
 
-## Usage
+## usage M
 
 To preprocess the data and conduct the analysis, follow these steps:
 
@@ -67,6 +67,6 @@ To preprocess the data and conduct the analysis, follow these steps:
    First, clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/vgsales-analysis.git
+   git clone https://github.com/basmaashraf/Data-Science-Project.git
    cd vgsales-analysis
 
