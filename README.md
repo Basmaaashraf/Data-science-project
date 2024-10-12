@@ -58,3 +58,15 @@ To set up the environment for this project, ensure you have Python installed. Th
 
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
+
+## Usage
+
+To preprocess the data and conduct the analysis, follow these steps:
+
+1. **Clone the Repository**:  
+   First, clone the repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/yourusername/vgsales-analysis.git
+   cd vgsales-analysis
+
